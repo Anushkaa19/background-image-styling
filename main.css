@@ -57,7 +57,7 @@ body {
   max-width: 35em;
 }
 .hero-btn {
-  text-transform: uppercase;
+  text-transform: capitalize;
   background: transparent;
   font-size: 1.5rem;
   color: white;
